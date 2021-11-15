@@ -1,6 +1,8 @@
 # hmg
 
-> A Vue.js project
+> 华东师范大学大学生创新创业训练计划项目  
+前端代码  
+作者：薛志一  
 
 ## Build Setup
 
